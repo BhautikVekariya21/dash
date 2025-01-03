@@ -17,7 +17,7 @@ export const navigationLinks = [
 export const transactions = [
     {
         id: 11, 
-        name: "Bill Jex",
+        name: "Sarah Parker",
         image: personsImgs.person_four,
         date: "23/12/04",
         amount: 22000
@@ -31,7 +31,7 @@ export const transactions = [
     },
     {
         id: 13, 
-        name: "Villiam Doe",
+        name: "Irene Doe",
         image: personsImgs.person_two,
         date: "23/08/25",
         amount: 30000
@@ -48,25 +48,25 @@ export const reportData = [
     {
         id: 15,
         month: "Feb",
-        value1: 45,
+        value1: 78,
         value2: 60
     },
     {
         id: 16,
         month: "Mar",
-        value1: 45,
+        value1: 41,
         value2: null
     },
     {
         id: 17,
         month: "Apr",
-        value1: 45,
+        value1: 18,
         value2: null
     },
     {
         id: 18,
         month: "May",
-        value1: 45,
+        value1: 89,
         value2: null
     }
 ];
@@ -108,20 +108,20 @@ export const subscriptions = [
     {
         id: 24,
         title: "LinkedIn",
-        due_date: "23/11/04",
+        due_date: "23/12/04",
         amount: 20000
     },
     {
         id: 25,
         title: "Netflix",
-        due_date: "23/12/09",
+        due_date: "23/12/10",
         amount: 5000
     },
     {
         id: 26,
         title: "Hologram",
-        due_date: "23/02/22",
-        amount: 2780
+        due_date: "23/12/22",
+        amount: 2000
     }
 ];
 
